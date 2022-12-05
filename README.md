@@ -1,0 +1,1 @@
+This project extract news and email to users
